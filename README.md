@@ -8,11 +8,11 @@ The Titanic dataset provides valuable information about the passengers onboard, 
 In this project, I applied various machine learning techniques to analyze the Titanic dataset and build a predictive model. By training the model on a subset of the dataset with known survival outcomes, I aimed to discover patterns and relationships between the features and the target variable. The trained model was then used to make predictions on a separate subset of the dataset, assessing its accuracy and generalization capabilities.
 
 # Key Features
-Exploratory data analysis and visualization to gain insights into the dataset
-Data preprocessing and feature engineering to prepare the data for machine learning algorithms
-Implementation and evaluation of different machine learning models for survival prediction
-Model performance assessment using metrics such as accuracy, precision, recall, and F1-score
-Documentation of the project methodology and results in Jupyter Notebooks
+* Exploratory data analysis and visualization to gain insights into the dataset
+* Data preprocessing and feature engineering to prepare the data for machine learning algorithms
+* Implementation and evaluation of different machine learning models for survival prediction
+* Model performance assessment using metrics such as accuracy, precision, recall, and F1-score
+* Documentation of the project methodology and results in Jupyter Notebooks
 
 # How to Use the Repository
 1. Clone the repository to your local machine.
