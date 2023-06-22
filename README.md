@@ -17,9 +17,8 @@ In this project, I applied various machine learning techniques to analyze the Ti
 # How to Use the Repository
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install the required dependencies mentioned in the requirements.txt file.
-4. Explore the Jupyter Notebooks to understand the project workflow and analysis.
-5. Run the code cells in the notebooks to reproduce the results or modify them according to your needs.
+3. Explore the Jupyter Notebooks to understand the project workflow and analysis.
+4. Run the code cells in the notebooks to reproduce the results or modify them according to your needs.
 
 
 Feel free to explore, contribute, and adapt the code for your own projects or learning purposes. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
