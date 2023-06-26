@@ -12,7 +12,7 @@ In this project, I applied various machine learning techniques to analyze the Ti
 * Data preprocessing and feature engineering to prepare the data for machine learning algorithms
 * Implementation and evaluation of different machine learning models for survival prediction
 * Model performance assessment using metrics such as accuracy, etc.,
-* Documentation of the project methodology and results in Jupyter Notebooks
+* Documentation of the project methodology and results in Google Colab
 
 # How to Use the Repository
 1. Clone the repository to your local machine.
