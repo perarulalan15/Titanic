@@ -17,7 +17,7 @@ In this project, I applied various machine learning techniques to analyze the Ti
 # How to Use the Repository
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Explore the Jupyter Notebooks to understand the project workflow and analysis.
+3. Explore the Google Colab to understand the project workflow and analysis.
 4. Run the code cells in the notebooks to reproduce the results or modify them according to your needs.
 
 
